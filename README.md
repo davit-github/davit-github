@@ -10,8 +10,11 @@
 - AWS / Cloudways
 
 🔧 I enjoy working on full-stack applications, third-party API integrations, booking systems, admin dashboards, and scalable web solutions.
+
 🌱 Always learning and exploring new technologies.
+
 🚴 Outside of coding, I enjoy cycling, traveling, and spending time in nature.
+
 📫 Reach me at: [davithwebdev@gmail.com](mailto:davithwebdev@gmail.com)
 
 <!---
